@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "pt_BR"
+  },
+
+  "appName": {
+    "message": "Coinmark - Precios de Criptomoeda"
+  },
+  "appDesc": {
+    "message": "Monitore mais de 1000 criptomoedas como Bitcoin, Ethereum, Litecoin, Bitcoin Cash & Gold, Ripple etc. em 30 moedas globais."
+  },
+
+  "extTopBannerH2": {
+    "message": "Precios de Criptomoeda"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - SELECIONE UMA MOEDA PADRÃO"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "CLASS."
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "NOME"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "PREÇO"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "24HR"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "SEMANA"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "BITCOIN"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "COMPRAR/VENDER"
+  },
+
+  "extTableInside_BUY": {
+    "message": "COMPRAR"
+  },
+  "extTableInside_SELL": {
+    "message": "VENDER"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "CARREGUE MAIS"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "O serviço atualmente não está disponível devido à alta demanda."
+  },
+  "extERROR_Check_Back": {
+    "message": "Por favor, verifique novamente em breve."
+  }
+
+}

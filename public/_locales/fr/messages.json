@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "fr"
+  },
+
+  "appName": {
+    "message": "Coinmark - Prix ​​du Marché de la Cryptomonnaie"
+  },
+  "appDesc": {
+    "message": "Surveillez plus de 1000 crypto-monnaies comme Bitcoin, Ethereum, Litecoin, Bitcoin Cash & Gold et plus dans 30 devises mondiales."
+  },
+
+  "extTopBannerH2": {
+    "message": "Prix ​​du Marché de la Cryptomonnaie"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - SÉLECTIONNER UNE MONNAIE PAR DÉFAUT"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "RANG"
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "NOM"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "PRIX"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "24HRS"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "SEMAINE"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "BITCOIN"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "ACHETER/VENDRE"
+  },
+
+  "extTableInside_BUY": {
+    "message": "ACHETER"
+  },
+  "extTableInside_SELL": {
+    "message": "VENDRE"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "CHARGER PLUS"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "Le service est actuellement indisponible en raison de la forte demande."
+  },
+  "extERROR_Check_Back": {
+    "message": "S'il vous plaît revenez en peu de temps."
+  }
+
+}

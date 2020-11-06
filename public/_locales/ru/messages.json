@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "ru"
+  },
+
+  "appName": {
+    "message": "Coinmark - Криптовалютные рыночные цены"
+  },
+  "appDesc": {
+    "message": "Мониторинг более 1000 криптовариантов, таких как Bitcoin, Ethereum, Litecoin, Bitcoin Cash & Gold и т. Д. В 30 глобальных валютах."
+  },
+
+  "extTopBannerH2": {
+    "message": "Криптовалютные рыночные цены"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - ВЫБРАТЬ ВАЛЮТУ ПО УМОЛЧАНИЮ"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "РАНГ"
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "ИМЯ"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "ЦЕНА"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "24ЧАСА"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "НЕДЕЛЮ"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "BITCOIN"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "КУПИТЬ/ПРОДАТЬ"
+  },
+
+  "extTableInside_BUY": {
+    "message": "КУПИТЬ"
+  },
+  "extTableInside_SELL": {
+    "message": "ПРОДАТЬ"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "ЗАГРУЗИ БОЛЬШЕ"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "Услуга в настоящее время недоступна из-за высокого спроса."
+  },
+  "extERROR_Check_Back": {
+    "message": "Пожалуйста, проверьте за короткое время."
+  }
+
+}

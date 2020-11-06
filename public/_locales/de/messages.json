@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "de"
+  },
+
+  "appName": {
+    "message": "Coinmark - Kryptowährung Preise"
+  },
+  "appDesc": {
+    "message": "Überwachen Sie über 1000 Kryptowährungen wie Bitcoin, Ethereum, Litecoin, Bitcoin Cash & Gold, usw. in 30 globalen Währungen."
+  },
+
+  "extTopBannerH2": {
+    "message": "Kryptowährung Preise"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - WÄHLEN SIE EINE STANDARDWÄHRUNG"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "RANG"
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "NAME"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "PREIS"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "24S"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "WOCHE"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "BITCOIN"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "KAUFEN/VERKAUFEN"
+  },
+
+  "extTableInside_BUY": {
+    "message": "KAUFEN"
+  },
+  "extTableInside_SELL": {
+    "message": "VERKAUFEN"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "MEHR LADEN"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "Der Dienst ist derzeit aufgrund hoher Nachfrage nicht verfügbar."
+  },
+  "extERROR_Check_Back": {
+    "message": "Bitte schauen Sie kurz zurück."
+  }
+
+}

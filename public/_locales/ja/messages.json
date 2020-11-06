@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "ja"
+  },
+
+  "appName": {
+    "message": "Coinmark (コインマーク)  -  暗号通貨の市場価格"
+  },
+  "appDesc": {
+    "message": "ビットコイン、イーサリアム、ライトコイン、ビットコインキャッシュ＆Goldなどの1000以上の暗号化された通貨を30以上のグローバル通貨で監視できます。"
+  },
+
+  "extTopBannerH2": {
+    "message": "暗号通貨の市場価格"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - デフォルト通貨を選択"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "ランク"
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "名"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "価格"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "24時間"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "週間"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "ビットコイン"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "購入/売る"
+  },
+
+  "extTableInside_BUY": {
+    "message": "購入"
+  },
+  "extTableInside_SELL": {
+    "message": "売る"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "もっと読み込む"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "このサービスは現在、需要が高いため利用できません。"
+  },
+  "extERROR_Check_Back": {
+    "message": "しばらくしてもう一度チェックしてください。"
+  }
+
+}

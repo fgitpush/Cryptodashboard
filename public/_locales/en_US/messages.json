@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "en_US"
+  },
+
+  "appName": {
+    "message": "Coinmark - Cryptocurrency Market Prices"
+  },
+  "appDesc": {
+    "message": "Monitor over 1000 cryptocurrencies like Bitcoin, Ethereum, Litecoin, Bitcoin Cash & Gold, Ripple etc. in 30 global FIAT currencies."
+  },
+
+  "extTopBannerH2": {
+    "message": "Cryptocurrency Market Prices"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - SELECT A DEFAULT CURRENCY"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "RANK"
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "NAME"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "PRICE"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "24HR"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "WEEK"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "BITCOIN"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "BUY/SELL"
+  },
+
+  "extTableInside_BUY": {
+    "message": "BUY"
+  },
+  "extTableInside_SELL": {
+    "message": "SELL"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "LOAD MORE"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "The service is currently unavailable due to high-demand."
+  },
+  "extERROR_Check_Back": {
+    "message": "Please check back in short while."
+  }
+
+}

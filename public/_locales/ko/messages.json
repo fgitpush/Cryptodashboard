@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "ko"
+  },
+
+  "appName": {
+    "message": "Coinmark - 암호화폐 시장 가격"
+  },
+  "appDesc": {
+    "message": "비트코인, 이더리움, 라이트코인, 비트코인 Cash & Gold 및 그 밖의 30 개 이상의 글로벌 통화와 같은 1000 개 이상의 크립토 통화를 모니터링하십시오."
+  },
+
+  "extTopBannerH2": {
+    "message": "암호화폐 시장 가격"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - 기본 통화 선택"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "랭크"
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "이름"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "가격"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "가격"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "주"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "비트코인"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "사다/팔다"
+  },
+
+  "extTableInside_BUY": {
+    "message": "사다"
+  },
+  "extTableInside_SELL": {
+    "message": "팔다"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "더"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "현재이 서비스는 수요가 많아 사용할 수 없습니다."
+  },
+  "extERROR_Check_Back": {
+    "message": "잠시 후에 다시 확인하십시오."
+  }
+
+}

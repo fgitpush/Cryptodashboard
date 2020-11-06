@@ -1,0 +1,60 @@
+{
+  "currentLanguage": {
+    "message": "nl"
+  },
+
+  "appName": {
+    "message": "Coinmark - Crypto Valuta"
+  },
+  "appDesc": {
+    "message": "Bewaak meer dan 1000 cryptocurrencies zoals Bitcoin, Ethereum, Litecoin, Bitcoin Cash & Gold etc. in 30 wereldwijde valuta's."
+  },
+
+  "extTopBannerH2": {
+    "message": "Crypto Valuta"
+  },
+  "extDropDownDefaultSelect": {
+    "message": " - SELECTEER EEN DEFINITIEF MUNT"
+  },
+
+  "extTableHeadingTitle_RANK": {
+    "message": "RANG"
+  },
+  "extTableHeadingTitle_NAME": {
+    "message": "NAAM"
+  },
+  "extTableHeadingTitle_PRICE": {
+    "message": "PRIJS"
+  },
+  "extTableHeadingTitle_24HR": {
+    "message": "24UR"
+  },
+  "extTableHeadingTitle_WEEK": {
+    "message": "WEEK"
+  },
+  "extTableHeadingTitle_BITCOIN": {
+    "message": "BITCOIN"
+  },
+  "extTableHeadingTitle_BUY_SELL": {
+    "message": "KOPEN/VERKOPEN"
+  },
+
+  "extTableInside_BUY": {
+    "message": "KOPEN"
+  },
+  "extTableInside_SELL": {
+    "message": "VERKOPEN"
+  },
+
+  "extBUTTON_LOAD_MORE": {
+    "message": "MEER LADEN"
+  },
+
+  "extERROR_Service_Unavailable": {
+    "message": "De service is momenteel niet beschikbaar vanwege de grote vraag."
+  },
+  "extERROR_Check_Back": {
+    "message": "Probeer het later opnieuw."
+  }
+
+}
